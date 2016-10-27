@@ -1,0 +1,22 @@
+{
+  "name": "next-test",
+  "version": "0.1.0",
+  "description": "the test repo for the next.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "next",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.8.1",
+    "eslint-config-dcard": "^3.0.0",
+    "eslint-plugin-mocha": "^4.7.0",
+    "jscs": "^3.0.7",
+    "jscs-preset-dcard": "^1.1.0"
+  }
+}
